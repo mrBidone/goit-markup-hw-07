@@ -1,0 +1,19 @@
+.footer {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: var(--dark-bg-color);
+}
+
+.footer__logo {
+  margin-bottom: 20px;
+}
+
+.footer__title {
+  margin-bottom: 20px;
+  color: var(--dark-bg-text-color);
+}
+
+.footer__grid {
+  --grid-item: 4;
+  align-items: baseline;
+}
